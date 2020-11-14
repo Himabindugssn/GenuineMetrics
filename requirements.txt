@@ -23,10 +23,10 @@ boto3==1.15.6
 botocore==1.18.6
 branca==0.4.1
 cachetools==4.1.1
-certifi==2018.11.29
+#certifi==2018.11.29
 cffi==1.14.3
 chardet==3.0.4
-click==6.7
+#click==6.7
 colorama==0.4.3
 constantly==15.1.0
 cryptography==3.1.1
@@ -119,7 +119,7 @@ numpydoc==0.9.2
 oauthlib==3.1.0
 opt-einsum==3.3.0
 packaging==16.8
-pandas==1.1.2
+#pandas==1.1.2
 parsel==1.1.0
 parso==0.7.1
 passlib==1.7.2
@@ -135,8 +135,8 @@ prompt-toolkit==2.0.10
 protobuf==3.13.0
 psycopg2-binary==2.8.6
 ptyprocess==0.5.1
-pyasn1==0.2.2
-pyasn1-modules==0.0.8
+#pyasn1==0.2.2
+#pyasn1-modules==0.0.8
 pycparser==2.17
 PyDispatcher==2.0.5
 pygame==2.0.0.dev6
@@ -170,7 +170,7 @@ seaborn==0.11.0
 selenium==3.141.0
 service-identity==16.0.0
 simplegeneric==0.8.1
-six==1.11.0
+#six==1.11.0
 sklearn==0.0
 smart-open==2.2.1
 snowballstemmer==2.0.0
