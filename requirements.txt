@@ -145,9 +145,9 @@ PyJWT==1.6.4
 pymongo==3.11.0
 PyMySQL==0.10.1
 pynput==1.7.1
-pyobjc-core==6.2.2
-pyobjc-framework-Cocoa==6.2.2
-pyobjc-framework-Quartz==6.2.2
+#pyobjc-core==6.2.2
+#pyobjc-framework-Cocoa==6.2.2
+#pyobjc-framework-Quartz==6.2.2
 pyOpenSSL==17.5.0
 pyparsing==2.1.10
 pyrsistent==0.17.3
