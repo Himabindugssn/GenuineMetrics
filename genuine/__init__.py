@@ -20,4 +20,4 @@ app.config['MAIL_USERNAME'] = 'noreply.genuinemetrics@gmail.com' #os.environ.get
 app.config['MAIL_PASSWORD'] = 'genu2020' #os.environ.get('EMAIL_PASS')
 mail = Mail(app)
 
-from flaskblog import routes
+from genuine import routes
