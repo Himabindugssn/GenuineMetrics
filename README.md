@@ -16,11 +16,6 @@ The scope of the project is to provide a user friendly web based product that wo
 
 - Display the details of each tweet - timestamp, author, bio, retweets, likes, followers of the author, following.
 
-# Snapshots
-![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.27.19%20PM.png)
-![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.29.56%20PM.png)
-![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.30.07%20PM.png)
-
 # Major Functions
 
 ## Data Extraction
@@ -35,5 +30,15 @@ This is done as per the requirements stated.
 
 ## Translation
 The entire webpage is translated using google translate API.
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.39.48%20PM.png)
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.39.38%20PM.png)
 
+
+# Snapshots
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.27.19%20PM.png)
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.40.11%20PM.png)
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.29.56%20PM.png)
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.30.07%20PM.png)
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.28.26%20PM.png)
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.29.13%20PM.png)
 
