@@ -16,6 +16,9 @@ The scope of the project is to provide a user friendly web based product that wo
 
 - Display the details of each tweet - timestamp, author, bio, retweets, likes, followers of the author, following.
 
+# Snapshots
+
+
 # Major Functions
 
 ## Data Extraction
@@ -30,3 +33,7 @@ This is done as per the requirements stated.
 
 ## Translation
 The entire webpage is translated using google translate API.
+
+# Features
+
+
