@@ -17,7 +17,9 @@ The scope of the project is to provide a user friendly web based product that wo
 - Display the details of each tweet - timestamp, author, bio, retweets, likes, followers of the author, following.
 
 # Snapshots
-
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.27.19%20PM.png)
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.29.56%20PM.png)
+![alt text](https://github.com/Himabindugssn/GenuineMetrics/blob/master/Images/Screenshot%202020-11-21%20at%2012.30.07%20PM.png)
 
 # Major Functions
 
@@ -33,7 +35,5 @@ This is done as per the requirements stated.
 
 ## Translation
 The entire webpage is translated using google translate API.
-
-# Features
 
 
